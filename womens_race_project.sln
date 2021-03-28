@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "womens_race_project", "womens_race_project\womens_race_project.csproj", "{61B4105C-FCED-4DD5-8511-F099A6A4A577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "womens_race_projectTests", "womens_race_projectTests\womens_race_projectTests.csproj", "{A3B4FD21-651C-49EB-8A3D-7E9D5992BFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B4105C-FCED-4DD5-8511-F099A6A4A577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B4105C-FCED-4DD5-8511-F099A6A4A577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B4105C-FCED-4DD5-8511-F099A6A4A577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B4105C-FCED-4DD5-8511-F099A6A4A577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B4FD21-651C-49EB-8A3D-7E9D5992BFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B4FD21-651C-49EB-8A3D-7E9D5992BFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B4FD21-651C-49EB-8A3D-7E9D5992BFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B4FD21-651C-49EB-8A3D-7E9D5992BFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28976298-5D15-49C0-9C9D-C8C9D74ADAE0}
+	EndGlobalSection
+EndGlobal
